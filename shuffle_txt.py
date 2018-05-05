@@ -1,5 +1,5 @@
 import random
-in_file = 'P2.csv'
+in_file = 'train.csv'
 out_file = 'train_11w_shuffle.csv'
 
 data = [x.strip() for x in open(in_file)]
