@@ -1,3 +1,5 @@
+# Bill Wang
+
 import random
 in_file = 'train.csv'
 out_file = 'train_11w_shuffle.csv'
